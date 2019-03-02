@@ -1,0 +1,237 @@
+*
+{
+margin: 0px;
+    }
+body {
+    
+}
+.container{
+        width: 1200px;
+        margin: 0 12;
+        margin: 0 initial;
+        margin: 0 auto;
+        overflow: hidden;
+}
+/*upper*/
+.upper {
+    background-image: url(../images/bo.jpg);
+    background-repeat: no-repeat;
+  background-size: 100%;
+}
+.write{}
+.logo{
+    width: 20%;
+    float: left;
+    /* padding: 7px; */
+    /* display: block; */
+    /* padding: 16px; */
+    /* padding: 29px 44px; */
+}
+.logo h1{
+    color: white;
+    font-size: 36px;
+    padding: 14px 2px;
+    display: block;
+}
+nav{
+    /* width: 90%; */
+    /* width: 90%; */
+    /* float: left; */
+    /* overflow: hidden; */
+    width: 80%;
+    float: left;
+}
+nav ul{
+    margin: 0px;
+    overflow: hidden;
+}
+nav ul li{
+    list-style: none;
+    /* float: right; */
+    display: inline-block;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 29px 44px;
+    display: block;
+    text-transform: uppercase;
+}
+nav ul li a:hover{
+    background: black;
+    opacity: 0.3;
+    border-radius: -9%;
+}
+
+.slogan{
+    padding: 261px 208px;
+}
+.slogan h3{
+    color: white;
+    text-transform: uppercase;
+    display: block;
+    text-align: center;
+    padding: 31px;
+    font-size: 27px;
+    font-weight: 100;
+}
+.slogan h1{
+    font-size: 77px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: chocolate;
+    display: block;
+    text-align: center;
+    padding: 21px;
+}
+.slogan a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    text-align: center;
+    padding: -13px;
+}
+.slogan a:hover
+{
+    
+color: #fdd50f;
+}
+/*upper end*/
+
+/*quts*/
+.lines{background: aliceblue;}
+.lines p{
+    font-size: 35px;
+    display: block;
+    text-align: center;
+    padding: 56px;
+}
+
+/*event*/
+.event{}
+.evnt_col{
+    /* display: block; */
+    /* text-align: right; */
+    /* float: right; */
+    /* margin-right: -33px; */
+    margin-left: 57px;
+}
+.evnt_p{}
+.title{}
+
+.title h2{
+    font-size: 33px;
+    font-weight: 600;
+    display: block;
+    text-align: center;
+    padding: 49px;
+}
+.col_1{
+    max-width: 45%;
+    float: left;
+    padding: 10px;
+}
+.col_1 img{
+    max-width: 100%;
+    /* padding: 76px; */
+}
+.col_1 h2{
+    text-transform: uppercase;
+    display: block;
+    text-align: center;
+    padding: 28px;
+}
+.col_1 a{
+    text-decoration: none;
+    color: #E91E63;
+    display: block;
+    text-align: center;
+}
+.col_1 a:hover{}
+.col_2{
+    max-width: 45%;
+    float: left;
+    padding: 10px;
+}
+.col_2 img{
+    max-width: 100%;
+}
+.col_2 h2
+{
+     text-transform: uppercase;
+    display: block;
+    text-align: center;
+    padding: 28px;
+}
+.col_2 a{
+     text-decoration: none;
+    color: #E91E63;
+    display: block;
+    text-align: center;
+}
+.col_2 a:hover{}
+
+/*expl*/
+.exp{
+    background-image: url(../images/bo1.jpg);
+     background-repeat: no-repeat;
+  background-size: 100%;
+    }
+.exp_w{
+    padding: 212px;
+    display: block;
+    text-align: right;
+    line-height: 63px;
+}
+.exp_w p{
+    color: white;
+    font-size: 19px;
+}
+.exp_w h1{
+    text-transform: uppercase;
+    color: white;
+    /* padding: 3px; */
+}
+.exp_w a{
+    text-decoration: none;
+    color: white;
+}
+.exp_w a:hover{
+    color: #E91E63;
+}
+
+/*upcoming*/
+.tour{}
+.col_3{
+    max-width: 30%;
+    float: left;
+    margin-top: 51px;
+    line-height: 33px;
+}
+.col_3 h2{
+    padding: 55px;
+}
+.col_3 a{
+    text-decoration: none;
+    color: black;
+    /* margin-top: 20px; */
+}
+.col_3 a:hover{
+    background: #E91E63;
+    padding: 1px 6px;
+    border-radius: 8%;
+    /* margin-top: 21px; */
+    /* padding: 10px; */
+}
+
+.col_4{
+    max-width: 55%;
+    float: left;
+    padding: 22px;
+}
+.col_4 img{
+    max-width: 49%;
+}
+
+
+
